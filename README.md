@@ -1,0 +1,3 @@
+# GAPlab1
+laba 1
+KURSOVAYA
